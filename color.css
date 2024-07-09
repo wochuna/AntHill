@@ -1,0 +1,56 @@
+
+   header {
+    background-color:grey;
+    color: maroon;
+    padding: 20px;
+    font-family: cursive;
+}
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 70px;
+    margin-right: 10px;
+    width: 30;
+}
+label.logo{
+    color:black(204, 46, 46);
+    font-size: 45px;
+    font-weight: bold;
+}
+nav {
+    display: flex;
+}
+nav a {
+    color: #333;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 0 10px;
+    transition: background-color 0.3s, color 0.3s;
+    float: right;
+    margin-left: 0px;
+}
+
+nav a:hover {
+    background-color: lightblue;
+    color: goldenrod;
+}
+
+main {
+    padding: 20px;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    padding: 20px;
+}
+footer {
+    background-color: black;
+    color: maroon;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    margin-bottom:0%
+}
