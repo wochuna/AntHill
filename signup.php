@@ -38,12 +38,12 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: lightblue;
+            background-color: #17616e;
             padding: 20px;
         }
 
         form {
-            background-color: lightblue;
+            background-color: #7697a0;
             padding: 30px;
             border-radius: 5px;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
@@ -63,8 +63,8 @@
         }
 
         button {
-            background-color: goldenrod;
-            color: firebrick;
+            background-color: #5a3211;
+            color: #0b2839;
             padding: 14px 20px;
             margin: 8px 0;
             border: none;
@@ -75,11 +75,11 @@
         }
 
         button:hover {
-            background-color: grey;
+            background-color: #964405;
         }
         h1{
             text-align: center;
-            color:blue;
+            color: #10475e;
         }
     </style>
 </body>

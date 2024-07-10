@@ -1,36 +1,40 @@
-
-   header {
-    background-color: white;
-    color: maroon;
+header {
+    background-color: #173b61;
+    color: white;
     padding: 20px;
     font-family: cursive;
+    display: flex;
+    align-items: center;
 }
+
 .logo {
     display: flex;
     align-items: center;
+    margin-right: auto;
 }
 
 .logo img {
     height: 70px;
     margin-right: 10px;
-    width: 30;
+    width: 30;   
 }
-label.logo{
-    color:black(204, 46, 46);
-    font-size: 45px;
+
+label.logo {
+    color: #0b2839;
+    font-size: 20px;
     font-weight: bold;
 }
+
 nav {
     display: flex;
 }
+
 nav a {
     color: #333;
     text-decoration: none;
     padding: 10px 20px;
     margin: 0 10px;
     transition: background-color 0.3s, color 0.3s;
-    float: right;
-    margin-left: 0px;
 }
 
 nav a:hover {
@@ -43,11 +47,11 @@ main {
 }
 body {
     font-family: Arial, sans-serif;
-    background-color: lightblue;
+    background-color: #17616e;
     padding: 20px;
 }
 footer {
-    background-color: black;
+    background-color: #ffebd0;
     color: maroon;
     padding: 10px;
     text-align: center;
