@@ -28,7 +28,8 @@
     <input type="password" id="password" name="password" placeholder="Enter your password" required>
 
     <button type="submit">Login</button>
-    <a href="signup.php"><button type="button">Sign Up</button></a>
+    <p >Don't have an account?<a href="signup.php">Sign Up</a></p>
+
 </form>
    </body> 
 <style>
