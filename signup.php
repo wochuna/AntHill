@@ -29,6 +29,9 @@
     <label for="password">Password:</label>
     <input type="password" id="password" name="password" placeholder="Enter your password" required>
 
+    <label for="password_confirmation">Repeat password</label>
+    <input type="password" id="password_confirmation" name="password_confirmation" placeholder="Confirm password" required>
+
     <button type="submit">Sign Up</button>
     <a href="login.php"><button type="button">Login</button></a>
 </form>
