@@ -79,7 +79,7 @@
         }
         h1{
             text-align: center;
-            color: #10475e;
+            color:  #5a3211;
         }
     </style>
 </body>

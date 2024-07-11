@@ -28,7 +28,7 @@
     <input type="password" id="password" name="password" placeholder="Enter your password" required>
 
     <button type="submit">Login</button>
-    <p >Don't have an account?<a href="signup.php">Sign Up</a></p>
+    <p>Don't have an account?<a href="signup.php">Sign Up</a></p>
 
 </form>
    </body> 
@@ -74,7 +74,13 @@
     }
     h1{
       text-align: center;
-      color: #10475e;
+      color:  #5a3211;
+    }
+    p a{
+        color: #173b61;
+    }
+    p a:hover{
+        color: #ffebd0;
     }
 </style>
 </head>
