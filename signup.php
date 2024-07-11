@@ -63,7 +63,7 @@
         }
 
         button {
-            background-color: #5a3211;
+            background-color:#964405 ;
             color: #0b2839;
             padding: 14px 20px;
             margin: 8px 0;
@@ -75,7 +75,7 @@
         }
 
         button:hover {
-            background-color: #964405;
+            background-color: #5a3211;
         }
         h1{
             text-align: center;

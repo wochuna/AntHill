@@ -20,7 +20,7 @@ header {
 }
 
 label.logo {
-    color: #0b2839;
+    color: #5a3211 ;
     font-size: 20px;
     font-weight: bold;
 }
@@ -38,7 +38,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: lightblue;
+    background-color: #964405;
     color: goldenrod;
 }
 
@@ -52,7 +52,7 @@ body {
 }
 footer {
     background-color: #ffebd0;
-    color: maroon;
+    color: #173b61;
     padding: 10px;
     text-align: center;
     position: relative;
